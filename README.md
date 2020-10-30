@@ -1,1 +1,7 @@
-# InGenius-Hack-Heal_ium
+## AGBI Hackathon
+
+**Team Name** - HealTechies
+
+**Idea Name** - DermaFind
+
+
