@@ -3,6 +3,8 @@
 **Team Name** - Heal_ium
 
 **Idea Name** - DermaFind
+
+**Summary** -
 A fast, easy and efficient way to predict skin cancer.
 We have all had skin rashes. But at times it turns up unexpectedly. The following are the steps one might take decide to take:
 1)look up the web to determine the kind of rash 
